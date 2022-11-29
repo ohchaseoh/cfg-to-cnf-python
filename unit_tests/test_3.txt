@@ -1,0 +1,7 @@
+V: L,M,N
+SIGMA: +,(,),f,g
+S: L
+P:
+	L -> fBBB | gAAA,
+	M -> f | A | gBB,
+	N -> g | gS | Aff

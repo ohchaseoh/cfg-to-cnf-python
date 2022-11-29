@@ -1,0 +1,5 @@
+V: S,V_0
+SIGMA: +,(,),a,b
+S: S
+P:
+	S -> bAA
